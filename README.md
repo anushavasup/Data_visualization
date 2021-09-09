@@ -1,2 +1,4 @@
 # Data_visualization
-kaggle course on data visualization
+completed kaggle course on data visualization.
+https://www.kaggle.com/learn/certification/anushavasup/data-visualization
+
